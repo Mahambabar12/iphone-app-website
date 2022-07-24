@@ -1,0 +1,17 @@
+nav{
+    background-color: rgb(49, 47, 47);
+    padding-top: 1%;
+}
+p{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.card-body{
+    background-color: rgb(243, 243, 250);
+    margin-top: 1%;
+    font-weight: 80;
+    font-size:small;
+}
+a.hover{
+    text-decoration: dashed;
+}
